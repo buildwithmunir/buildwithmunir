@@ -30,6 +30,7 @@
 </a>
 
 </p>
+<hr>
 
 <!-- ===================== Profile Views ====================== -->
 
@@ -39,59 +40,3 @@
 
 <br>
 
-## 💫 About Me
-
-<table>
-<tr>
-
-<td width="58%">
-
-```bash
-👨‍💻 Name          : Munir Ahmad
-
-💼 Role          : MERN Stack Developer
-
-📍 Location      : Lahore, Pakistan 🇵🇰
-
-🚀 Currently     : Building scalable Full Stack Web Applications
-
-⚛️ Tech Stack    : React.js
-                   Node.js
-                   Express.js
-                   MongoDB
-
-🛠 Tools         : Git
-                   GitHub
-                   VS Code
-                   Postman
-
-🎯 Interests     : Open Source
-                   REST APIs
-                   Software Architecture
-                   UI / UX
-
-🤝 Available For : Freelance
-                   Collaboration
-                   Open Source
-
-☕ Motto         : "Build • Learn • Improve • Repeat 🚀"
-```
-
-</td>
-
-<!-- <td width="42%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif" width="300"/>
-
-</td> -->
-
-</tr>
-</table>
-
-### 🌟 What Drives Me
-
-- 🚀 Passionate about building modern, scalable, and production-ready web applications.
-- 💡 I enjoy transforming ideas into real-world digital products.
-- ⚡ Writing clean, maintainable, and efficient code.
-- 🌍 Continuously exploring new technologies and software architecture.
-- 🤝 Open to freelance opportunities, collaborations, and open-source contributions.
