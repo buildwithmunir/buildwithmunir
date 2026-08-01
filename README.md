@@ -32,4 +32,3 @@
   <img src="https://komarev.com/ghpvc/?username=buildwithmunir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/buildwithmunir)
