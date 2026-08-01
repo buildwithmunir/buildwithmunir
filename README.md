@@ -158,8 +158,8 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and h
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 
-<a href="https://learnhubreact.netlify.app">
-<img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Portfolio"/>
+<a href="https://github.com/buildwithmunir">
+<img src="https://skillicons.dev/icons?i=github" alt="github"/>
 </a>
 
 </p>
