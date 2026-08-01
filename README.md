@@ -28,3 +28,6 @@
 </a>
 
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=buildwithmunir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
