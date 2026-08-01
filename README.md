@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://learnhubreact.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
