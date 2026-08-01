@@ -40,4 +40,14 @@
 
 <br>
 <hr>
+<!-- ===================== About Me ====================== -->
+## 💫 About Me
 
+- 💼 **Role:** MERN Stack Developer
+- 📍 **Location:** Lahore, Pakistan 🇵🇰
+- 🚀 **Currently Building:** Scalable Full Stack Web Applications
+- ⚛️ **Specialized In:** React.js, Node.js, Express.js & MongoDB
+- 🛠️ **Tools:** Git, GitHub, VS Code, Postman
+- 🎯 **Expertise:** REST APIs, Authentication, MVC, Responsive Design
+- 🤝 **Open To:** Freelance, Open Source & Collaboration
+- 💡 **Motto:** *Build • Learn • Improve • Repeat 🚀*
