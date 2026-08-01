@@ -81,7 +81,7 @@
 
 <td width="42%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif" width="300"/>
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif" width="300"/> -->
 
 </td>
 
