@@ -11,11 +11,11 @@
 <!-- badges -->
 <p align="center">
 
-<a href="https://www.linkedin.com/in/buildwithmunir" target="_blank">
+<a href="https://www.linkedin.com/in/buildwithmunir">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="https://github.com/buildwithmunir" target="_blank">
+<a href="https://github.com/buildwithmunir">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://yourportfolio.com" target="_blank">
+<a href="https://yourportfolio.com">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=green" alt="Portfolio"/>
 </a>
 
@@ -32,81 +32,66 @@
   <img src="https://komarev.com/ghpvc/?username=buildwithmunir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
+<!-- about section -->
+
 <h2 align="left">💫 About Me</h2>
 
 <img align="right" alt="Developer" width="380" src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif"/>
 
 ```javascript
 const munir = {
-    name: "Munir Ahmad",
+  name: "Munir Ahmad",
+  role: "MERN Stack Developer",
+  location: "Lahore, Pakistan 🇵🇰",
 
-    role: "MERN Stack Developer",
+  languages: ["JavaScript", "HTML5", "CSS3"],
 
-    location: "Lahore, Pakistan 🇵🇰",
+  frontend: [
+    "React.js",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Material UI"
+  ],
 
-    portfolio: "Coming Soon",
+  backend: [
+    "Node.js",
+    "Express.js"
+  ],
 
-    languages: [
-        "JavaScript",
-        "HTML5",
-        "CSS3"
-    ],
+  database: [
+    "MongoDB"
+  ],
 
-    frontend: [
-        "React.js",
-        "Tailwind CSS",
-        "Bootstrap",
-        "Material UI"
-    ],
+  tools: [
+    "Git",
+    "GitHub",
+    "VS Code",
+    "Postman"
+  ],
 
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
+  expertise: [
+    "REST APIs",
+    "Authentication",
+    "MVC Architecture",
+    "Responsive Design"
+  ],
 
-    database: [
-        "MongoDB"
-    ],
+  currentlyBuilding: [
+    "Scalable MERN Applications",
+    "Backend Systems",
+    "Open Source Projects"
+  ],
 
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman"
-    ],
-
-    expertise: [
-        "REST APIs",
-        "Authentication",
-        "Responsive UI",
-        "MVC Architecture"
-    ],
-
-    currentlyBuilding: [
-        "Scalable MERN Applications",
-        "Modern Backend Systems",
-        "Real-World Projects"
-    ],
-
-    openTo: [
-        "Freelance Projects",
-        "Open Source",
-        "Collaboration"
-    ],
-
-    motto:
-        "Build. Learn. Improve. Repeat. 🚀"
+  motto: "Build. Learn. Improve. Repeat. 🚀"
 };
 ```
 
-<br>
-
 ### 🌟 What Drives Me
 
-- 🚀 Passionate about building modern, scalable, and high-performance web applications.
-- 💡 I enjoy transforming ideas into real-world digital products with clean architecture.
-- ⚡ Focused on writing maintainable, efficient, and production-ready code.
-- 🌍 Always exploring new technologies and best practices to grow as a developer.
-- 🤝 Open to collaborating on innovative projects and contributing to the developer community.
+- 🚀 Building modern, scalable, and high-performance web applications.
+- 💡 Turning ideas into real-world digital products.
+- ⚡ Writing clean, maintainable, and production-ready code.
+- 🌍 Exploring modern technologies and software architecture.
+- 🤝 Open to collaboration, freelance opportunities, and open source.
 
 ---
