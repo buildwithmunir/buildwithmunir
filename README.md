@@ -32,3 +32,24 @@
   <img src="https://komarev.com/ghpvc/?username=buildwithmunir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+💻 **MERN Stack Developer** passionate about building modern, scalable, and high-performance web applications.
+
+⚛️ Specialized in **React.js, Node.js, Express.js, and MongoDB**.
+
+🚀 Building responsive, user-centric, and production-ready full-stack applications.
+
+🔗 Experienced in developing RESTful APIs, authentication systems, and database-driven applications.
+
+🧠 Strong believer in writing clean, maintainable, and scalable code.
+
+🌐 Passionate about modern UI/UX, performance optimization, and best development practices.
+
+🤝 Open to collaborating on innovative projects, open-source contributions, and freelance opportunities.
+
+📫 Reach me at: **munirdev76@gmail.com**
+
+⚡ **Fun Fact:** I enjoy turning ideas into real-world digital products that solve meaningful problems.
