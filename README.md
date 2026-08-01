@@ -40,70 +40,42 @@
 
 ---
 
-# 💫 About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif" alt="Coding Animation"/>
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f9dd4cd.gif"/>
 
-```javascript
-const munir = {
-  name: "Munir Ahmad",
+```bash
+> whoami
 
-  role: "MERN Stack Developer",
+Munir Ahmad
 
-  location: "Lahore, Pakistan 🇵🇰",
+> role
 
-  languages: [
-    "JavaScript",
-    "HTML5",
-    "CSS3"
-  ],
+MERN Stack Developer
 
-  frontend: [
-    "React.js",
-    "Tailwind CSS",
-    "Bootstrap",
-    "Material UI"
-  ],
+> location
 
-  backend: [
-    "Node.js",
-    "Express.js"
-  ],
+Lahore, Pakistan 🇵🇰
 
-  database: [
-    "MongoDB"
-  ],
+> stack
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman"
-  ],
+React.js
+Node.js
+Express.js
+MongoDB
 
-  expertise: [
-    "REST APIs",
-    "Authentication",
-    "MVC Architecture",
-    "Responsive Design"
-  ],
+> currently
 
-  currentlyBuilding: [
-    "Scalable MERN Applications",
-    "Backend Systems",
-    "Open Source Projects"
-  ],
+Building scalable Full Stack Applications
 
-  motto: "Build. Learn. Improve. Repeat. 🚀"
-};
+> interests
+
+Open Source
+REST APIs
+Software Architecture
+UI/UX
+
+> motto
+
+"Build. Break. Learn. Repeat."
 ```
-
-### 🌟 What Drives Me
-
-- 🚀 Building modern, scalable, and high-performance web applications.
-- 💡 Turning ideas into real-world digital products.
-- ⚡ Writing clean, maintainable, and production-ready code.
-- 🌍 Exploring modern technologies and software architecture.
-- 🤝 Open to collaboration, freelance opportunities, and open-source contributions.
-
----
