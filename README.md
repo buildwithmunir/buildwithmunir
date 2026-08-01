@@ -32,24 +32,81 @@
   <img src="https://komarev.com/ghpvc/?username=buildwithmunir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 🚀 About Me
+<h2 align="left">💫 About Me</h2>
 
-<img align="right" alt="Coding" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="Developer" width="380" src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif"/>
 
-💻 **MERN Stack Developer** passionate about building modern, scalable, and high-performance web applications.
+```javascript
+const munir = {
+    name: "Munir Ahmad",
 
-⚛️ Specialized in **React.js, Node.js, Express.js, and MongoDB**.
+    role: "MERN Stack Developer",
 
-🚀 Building responsive, user-centric, and production-ready full-stack applications.
+    location: "Lahore, Pakistan 🇵🇰",
 
-🔗 Experienced in developing RESTful APIs, authentication systems, and database-driven applications.
+    portfolio: "Coming Soon",
 
-🧠 Strong believer in writing clean, maintainable, and scalable code.
+    languages: [
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+    ],
 
-🌐 Passionate about modern UI/UX, performance optimization, and best development practices.
+    frontend: [
+        "React.js",
+        "Tailwind CSS",
+        "Bootstrap",
+        "Material UI"
+    ],
 
-🤝 Open to collaborating on innovative projects, open-source contributions, and freelance opportunities.
+    backend: [
+        "Node.js",
+        "Express.js"
+    ],
 
-📫 Reach me at: **munirdev76@gmail.com**
+    database: [
+        "MongoDB"
+    ],
 
-⚡ **Fun Fact:** I enjoy turning ideas into real-world digital products that solve meaningful problems.
+    tools: [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman"
+    ],
+
+    expertise: [
+        "REST APIs",
+        "Authentication",
+        "Responsive UI",
+        "MVC Architecture"
+    ],
+
+    currentlyBuilding: [
+        "Scalable MERN Applications",
+        "Modern Backend Systems",
+        "Real-World Projects"
+    ],
+
+    openTo: [
+        "Freelance Projects",
+        "Open Source",
+        "Collaboration"
+    ],
+
+    motto:
+        "Build. Learn. Improve. Repeat. 🚀"
+};
+```
+
+<br>
+
+### 🌟 What Drives Me
+
+- 🚀 Passionate about building modern, scalable, and high-performance web applications.
+- 💡 I enjoy transforming ideas into real-world digital products with clean architecture.
+- ⚡ Focused on writing maintainable, efficient, and production-ready code.
+- 🌍 Always exploring new technologies and best practices to grow as a developer.
+- 🤝 Open to collaborating on innovative projects and contributing to the developer community.
+
+---
