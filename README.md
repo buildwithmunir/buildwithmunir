@@ -43,11 +43,15 @@
 <!-- ===================== About Me ====================== -->
 ## 💫 About Me
 
-- 💼 **Role:** MERN Stack Developer
-- 📍 **Location:** Lahore, Pakistan 🇵🇰
-- 🚀 **Currently Building:** Scalable Full Stack Web Applications
-- ⚛️ **Specialized In:** React.js, Node.js, Express.js & MongoDB
-- 🛠️ **Tools:** Git, GitHub, VS Code, Postman
-- 🎯 **Expertise:** REST APIs, Authentication, MVC, Responsive Design
-- 🤝 **Open To:** Freelance, Open Source & Collaboration
-- 💡 **Motto:** *Build • Learn • Improve • Repeat 🚀*
+I'm a **MERN Stack Developer** dedicated to building scalable, secure, and user-focused web applications. I enjoy transforming ideas into production-ready products by combining modern frontend technologies with robust backend architecture and clean development practices.
+
+### 🚀 Core Focus Areas
+ 
+- ⚛️ Full Stack Development using React.js, Node.js, Express.js & MongoDB
+- 🏗️ Scalable Backend Systems & RESTful API Development
+- 🔐 Authentication, Authorization & Secure Web Applications
+- 🎨 Responsive UI Development with Tailwind CSS & Bootstrap
+- 📊 Database Design, Integration & Performance Optimization
+- 🧩 MVC Architecture & Clean Code Principles
+- 🚀 Building Real-World MERN Applications
+- 🤝 Collaboration, Open Source & Continuous Improvement
