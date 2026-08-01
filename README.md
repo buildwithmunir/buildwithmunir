@@ -153,6 +153,8 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and h
 <a href="mailto:munirdev76@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
+$nbsp
+$nbsp
 
 <a href="https://www.linkedin.com/in/buildwithmunir">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
