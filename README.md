@@ -42,7 +42,6 @@
 <hr>
 
 <!-- ===================== About Me ====================== -->
----
 ### 💫 About Me
 
 I'm a **MERN Stack Developer** dedicated to building scalable, secure, and user-focused web applications. I enjoy transforming ideas into production-ready products by combining modern frontend technologies with robust backend architecture and clean development practices.
