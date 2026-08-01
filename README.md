@@ -7,7 +7,7 @@
 <!-- ===================== Animated Typing ==================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Scalable+Web+Applications;Open+Source+Contributor;Open+To+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+•+Node.js+•+Express.js+•+MongoDB;Building+Scalable+Web+Applications;Open+To+Collaborate" alt="Typing SVG" />
 </p>
 
 <!-- ======================= Social Links ===================== -->
@@ -38,44 +38,61 @@
 <img src="https://komarev.com/ghpvc/?username=buildwithmunir&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
+<br>
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## 💫 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f9dd4cd.gif"/>
+<table>
+<tr>
+
+<td width="58%">
 
 ```bash
-> whoami
+👨‍💻 Name          : Munir Ahmad
 
-Munir Ahmad
+💼 Role          : MERN Stack Developer
 
-> role
+📍 Location      : Lahore, Pakistan 🇵🇰
 
-MERN Stack Developer
+🚀 Currently     : Building scalable Full Stack Web Applications
 
-> location
+⚛️ Tech Stack    : React.js
+                   Node.js
+                   Express.js
+                   MongoDB
 
-Lahore, Pakistan 🇵🇰
+🛠 Tools         : Git
+                   GitHub
+                   VS Code
+                   Postman
 
-> stack
+🎯 Interests     : Open Source
+                   REST APIs
+                   Software Architecture
+                   UI / UX
 
-React.js
-Node.js
-Express.js
-MongoDB
+🤝 Available For : Freelance
+                   Collaboration
+                   Open Source
 
-> currently
-
-Building scalable Full Stack Applications
-
-> interests
-
-Open Source
-REST APIs
-Software Architecture
-UI/UX
-
-> motto
-
-"Build. Break. Learn. Repeat."
+☕ Motto         : "Build • Learn • Improve • Repeat 🚀"
 ```
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
+
+### 🌟 What Drives Me
+
+- 🚀 Passionate about building modern, scalable, and production-ready web applications.
+- 💡 I enjoy transforming ideas into real-world digital products.
+- ⚡ Writing clean, maintainable, and efficient code.
+- 🌍 Continuously exploring new technologies and software architecture.
+- 🤝 Open to freelance opportunities, collaborations, and open-source contributions.
