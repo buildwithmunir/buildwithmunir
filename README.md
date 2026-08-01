@@ -114,7 +114,7 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and h
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.devomb.com/?username=buildwithmunir&theme=light" />
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=buildwithmunir&theme=tokyonight" />
 </p>
 
 ---
