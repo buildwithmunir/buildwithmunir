@@ -154,10 +154,6 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and h
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/buildwithmunir">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 <a href="https://www.linkedin.com/in/buildwithmunir">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
