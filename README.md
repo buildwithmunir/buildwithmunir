@@ -151,15 +151,15 @@ I'm a **MERN Stack Developer** passionate about building modern, scalable, and h
 <p align="center">
 
 <a href="mailto:munirdev76@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 
 <a href="https://www.linkedin.com/in/buildwithmunir">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://learnhubreact.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-0D1117?style=for-the-badge&labelColor=0D1117&color=38BDF8" alt="Portfolio"/>
 </a>
 
 </p>
