@@ -38,7 +38,7 @@
 
 <img align="right" alt="Developer" width="380" src="https://user-images.githubusercontent.com/74038190/212744322-2a2dfb6b-e6dd-4c4b-9b8d-19d728d6d4b.gif"/>
 
-```javascript
+
 const munir = {
   name: "Munir Ahmad",
   role: "MERN Stack Developer",
@@ -84,7 +84,7 @@ const munir = {
 
   motto: "Build. Learn. Improve. Repeat. 🚀"
 };
-```
+
 
 ### 🌟 What Drives Me
 
