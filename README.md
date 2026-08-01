@@ -3,7 +3,7 @@
 <img src="images/banner-2.png" width="100%">
 </p>
 <!-- animated text section -->
-<div align='center'>
+<div align='center' style='border-bottom:1px solid red">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=435&height=60&lines=MERN+Stack+Developer...;Full+Stack+Developer;AI-powered+products;Open+Source+Contributor;Open+To+Work..." alt="Typing SVG" /></a>
 </div>
 
