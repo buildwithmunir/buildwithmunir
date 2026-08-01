@@ -1,8 +1,14 @@
 <p align="center">
-<img src="images/banner.png" width="100%">
+<img src="images/banner2.png" width="100%">
 </p>
 
+<h1 align="center">
+Hi 👋, I'm Munir Ahmad
+</h1>
 
+<h3 align="center">
+MERN Stack Developer
+</h3>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/buildwithmunir" target="_blank">
