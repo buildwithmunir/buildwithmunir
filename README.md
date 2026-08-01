@@ -6,9 +6,7 @@
 
 <!-- ===================== Animated Typing ==================== -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+•+Node.js+•+Express.js+•+MongoDB;Building+Scalable+Web+Applications;Open+To+Collaborate" alt="Typing SVG" />
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=poppins&weight=600&size=28&duration=3500&pause=1000&color=38BDF8&background=0D111700&center=true&vCenter=true&width=435&height=60&lines=MERN+Stack+Developer...;Full+Stack+Developer;AI-powered+products;Open+Source+Contributor;Open+To+Work..." alt="Typing SVG" /></a>
 
 <!-- ======================= Social Links ===================== -->
 
